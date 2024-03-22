@@ -1,17 +1,17 @@
 object CharacterCommon {
     fun attack(character: Character) {
         with(character) {
-            when (character) {
+            when (this) {
                 is Character.Archer -> {
-                    println("$name ${character.ability} приминил способность ${weaponType.weapon}")
+                    println("$name приминил способность ${this.ability}  ${weaponType.weapon}")
                 }
 
                 is Character.Mage -> {
-                    println("$name ${character.spell} применил заклинание ${weaponType.weapon}")
+                    println("$name  применил заклинание ${this.spell} ${weaponType.weapon}")
                 }
 
                 is Character.Warrior -> {
-                    println("$name ${character.ability} применил способность ${weaponType.weapon}")
+                    println("$name применил способность ${this.ability} ${weaponType.weapon}")
                 }
             }
         }
