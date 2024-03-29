@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
     when (action) {
         0 -> {
             val warrior = Character.Warrior("смог защититься")
-            val mage = Character.Mage("защититься используя")
+            val mage = Character.Mage("защититься используя посох")
             val archer = Character.Archer("смогла защититься")
             CharacterCommon.defend(warrior)
             CharacterCommon.defend(mage)
