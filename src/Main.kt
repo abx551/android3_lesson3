@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-fun main(args: Array<String>) {
+fun main() {
     val scanner = Scanner(System.`in`)
 
     println("Выберите действие для персонажа 1 - Атака, 0 - Защита ")

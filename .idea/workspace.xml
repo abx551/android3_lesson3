@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3413f070-81f5-432d-988e-e31a00225672" name="Changes" comment="исправила ошибки type alias и использлвание  this вместо chatter в attack и deffend, все как вы сказали мне  я исправила">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Character.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Character.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KotlinFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinFile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="3413f070-81f5-432d-988e-e31a00225672" name="Changes" comment="исправила ошибки type alias и использлвание  this вместо chatter в attack и deffend, все как вы сказали мне  я исправилам" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +27,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "abx551"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d4a6ba6c-22b6-4971-a3cf-8880494ee962" />
+        <option name="url" value="https://github.com/abx551/android3_lesson3.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -97,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711694670128</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="исправила ошибки type alias и использлвание  this вместо chatter в attack и deffend, все как вы сказали мне  я исправила">
+      <option name="closed" value="true" />
+      <created>1711700048541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711700048542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
